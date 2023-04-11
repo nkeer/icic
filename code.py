@@ -13,8 +13,8 @@ def compute_hcf(x, y):
             hcf = i 
     return hcf
 
-num1 = 54 
-num2 = 24
+num1 = 24 
+num2 = 54
 
 print("The H.C.F. is", compute_hcf(num1, num2))
 
